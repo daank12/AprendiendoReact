@@ -1,0 +1,19 @@
+{
+  "name": "aprendiendoreact",
+  "version": "1.0.0",
+  "description": "En este portfolio encontraras todos mis trabajos con REACT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "webpack-dashboard -- webpack-dev-server --inline --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.github.com/daank12/AprendiendoReact"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "dank",
+  "license": "MIT"
+}
